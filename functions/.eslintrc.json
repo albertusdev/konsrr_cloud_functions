@@ -4,8 +4,7 @@
     "ecmaVersion": 2017
   },
   "plugins": [
-    "promise",
-    "async-await"
+    "promise"
   ],
   "extends": "eslint:recommended",
   "rules": {
